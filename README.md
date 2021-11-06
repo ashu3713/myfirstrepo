@@ -1,2 +1,2 @@
 # myfirstrepo
-typr what you want
+type what you want
